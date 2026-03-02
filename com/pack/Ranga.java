@@ -17,7 +17,8 @@ public class Ranga
     {
         int a=10;
         int b=20;
-        System.out.println(a+b);
+        int c=30;
+        System.out.println(a+b+c);
     }
 
     public static void main(String[] args) {
