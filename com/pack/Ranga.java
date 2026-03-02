@@ -4,7 +4,7 @@ public class Ranga
 {
     public static void sekhar()
     {
-        System.out.println("Sekhar");
+        System.out.println(" Sekhar");
     }
 
     public static void sub()
