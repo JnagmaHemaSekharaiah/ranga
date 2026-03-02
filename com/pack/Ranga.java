@@ -2,6 +2,11 @@ package com.pack;
 
 public class Ranga
 {
+    public static void ranga()
+    {
+        System.out.println("This is ranaga");
+    }
+
     public static void sub()
     {
         int a=10;
@@ -18,5 +23,6 @@ public class Ranga
     public static void main(String[] args) {
         add();
         sub();
+        ranga();
     }
 }
